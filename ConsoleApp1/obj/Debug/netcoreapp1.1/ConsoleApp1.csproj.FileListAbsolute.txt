@@ -1,0 +1,8 @@
+c:\users\baiby\documents\visual studio 2017\Projects\NetCore\ConsoleApp1\bin\Debug\netcoreapp1.1\ConsoleApp1.deps.json
+c:\users\baiby\documents\visual studio 2017\Projects\NetCore\ConsoleApp1\bin\Debug\netcoreapp1.1\ConsoleApp1.runtimeconfig.json
+c:\users\baiby\documents\visual studio 2017\Projects\NetCore\ConsoleApp1\bin\Debug\netcoreapp1.1\ConsoleApp1.runtimeconfig.dev.json
+c:\users\baiby\documents\visual studio 2017\Projects\NetCore\ConsoleApp1\bin\Debug\netcoreapp1.1\ConsoleApp1.dll
+c:\users\baiby\documents\visual studio 2017\Projects\NetCore\ConsoleApp1\bin\Debug\netcoreapp1.1\ConsoleApp1.pdb
+c:\users\baiby\documents\visual studio 2017\Projects\NetCore\ConsoleApp1\obj\Debug\netcoreapp1.1\ConsoleApp1.AssemblyInfo.cs
+c:\users\baiby\documents\visual studio 2017\Projects\NetCore\ConsoleApp1\obj\Debug\netcoreapp1.1\ConsoleApp1.dll
+c:\users\baiby\documents\visual studio 2017\Projects\NetCore\ConsoleApp1\obj\Debug\netcoreapp1.1\ConsoleApp1.pdb
