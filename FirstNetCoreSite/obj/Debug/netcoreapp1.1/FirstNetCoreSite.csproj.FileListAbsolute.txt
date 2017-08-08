@@ -1,9 +1,0 @@
-c:\users\baiby\documents\visual studio 2017\Projects\NetCore\FirstNetCoreSite\bin\Debug\netcoreapp1.1\FirstNetCoreSite.deps.json
-c:\users\baiby\documents\visual studio 2017\Projects\NetCore\FirstNetCoreSite\bin\Debug\netcoreapp1.1\FirstNetCoreSite.runtimeconfig.json
-c:\users\baiby\documents\visual studio 2017\Projects\NetCore\FirstNetCoreSite\bin\Debug\netcoreapp1.1\FirstNetCoreSite.runtimeconfig.dev.json
-c:\users\baiby\documents\visual studio 2017\Projects\NetCore\FirstNetCoreSite\bin\Debug\netcoreapp1.1\FirstNetCoreSite.dll
-c:\users\baiby\documents\visual studio 2017\Projects\NetCore\FirstNetCoreSite\bin\Debug\netcoreapp1.1\FirstNetCoreSite.pdb
-c:\users\baiby\documents\visual studio 2017\Projects\NetCore\FirstNetCoreSite\obj\Debug\netcoreapp1.1\FirstNetCoreSite.csprojResolveAssemblyReference.cache
-c:\users\baiby\documents\visual studio 2017\Projects\NetCore\FirstNetCoreSite\obj\Debug\netcoreapp1.1\FirstNetCoreSite.AssemblyInfo.cs
-c:\users\baiby\documents\visual studio 2017\Projects\NetCore\FirstNetCoreSite\obj\Debug\netcoreapp1.1\FirstNetCoreSite.dll
-c:\users\baiby\documents\visual studio 2017\Projects\NetCore\FirstNetCoreSite\obj\Debug\netcoreapp1.1\FirstNetCoreSite.pdb

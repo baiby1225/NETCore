@@ -1,0 +1,9 @@
+F:\GitHubCode\GitHub-NetCore\NETCore\FirstNetCoreWebSite\bin\Debug\netcoreapp1.1\FirstNetCoreWebSite.deps.json
+F:\GitHubCode\GitHub-NetCore\NETCore\FirstNetCoreWebSite\bin\Debug\netcoreapp1.1\FirstNetCoreWebSite.runtimeconfig.json
+F:\GitHubCode\GitHub-NetCore\NETCore\FirstNetCoreWebSite\bin\Debug\netcoreapp1.1\FirstNetCoreWebSite.runtimeconfig.dev.json
+F:\GitHubCode\GitHub-NetCore\NETCore\FirstNetCoreWebSite\bin\Debug\netcoreapp1.1\FirstNetCoreWebSite.dll
+F:\GitHubCode\GitHub-NetCore\NETCore\FirstNetCoreWebSite\bin\Debug\netcoreapp1.1\FirstNetCoreWebSite.pdb
+F:\GitHubCode\GitHub-NetCore\NETCore\FirstNetCoreWebSite\obj\Debug\netcoreapp1.1\FirstNetCoreWebSite.csprojResolveAssemblyReference.cache
+F:\GitHubCode\GitHub-NetCore\NETCore\FirstNetCoreWebSite\obj\Debug\netcoreapp1.1\FirstNetCoreWebSite.AssemblyInfo.cs
+F:\GitHubCode\GitHub-NetCore\NETCore\FirstNetCoreWebSite\obj\Debug\netcoreapp1.1\FirstNetCoreWebSite.dll
+F:\GitHubCode\GitHub-NetCore\NETCore\FirstNetCoreWebSite\obj\Debug\netcoreapp1.1\FirstNetCoreWebSite.pdb
